@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/flarnrules/stargaze-tokengate/issues"
   },
-  "homepage": "https://github.com/flarnrules/stargaze-tokengate#readme"
+  "homepage": "https://github.com/flarnrules/stargaze-tokengate#readme",
+  "dependencies": {
+    "stargazejs": "^0.14.2"
+  }
 }
