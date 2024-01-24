@@ -1,0 +1,20 @@
+{
+  "name": "stargaze-tokengate",
+  "version": "1.0.0",
+  "description": "a novel method of token gating information inside a stargaze nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flarnrules/stargaze-tokengate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flarnrules/stargaze-tokengate/issues"
+  },
+  "homepage": "https://github.com/flarnrules/stargaze-tokengate#readme"
+}
