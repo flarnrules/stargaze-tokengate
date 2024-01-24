@@ -1,0 +1,16 @@
+{
+  "name": "Treasure Chest 1",
+  "description": "This is a test of a simple keplr integration inside an nft on stargaze.",
+  "attributes": [
+    {
+      "trait_type": "object",
+      "value": "Treasure Chest"
+    },
+    {
+      "trait_type": "test",
+      "value": "Can Keplr be engaged from within an nft on stargaze? Also, does the html file go into an 'animation_url' field, or should it be put in something different?"
+    }
+  ],
+  "image": "ipfs://bafybeid5hoz5ufvsndu5kfacnfmsznvey5hszc2ganr6x5uhgdhwndadky/1.png",
+  "animation_url": "https://ipfs-gw.stargaze-apis.com/ipfs/bafybeid5hoz5ufvsndu5kfacnfmsznvey5hszc2ganr6x5uhgdhwndadky/1.html"
+}
